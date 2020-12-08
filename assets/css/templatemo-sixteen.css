@@ -346,7 +346,7 @@ header .navbar {
 
 .banner-item-01 {
     padding: 300px 0px;
-    background-image: url(../images/petrol\ 3.jpg);
+    background-image: url(https://source.unsplash.com/1600x800/?Petrol,Dielsel);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -362,7 +362,7 @@ header .navbar {
 
 .banner-item-03 {
     padding: 300px 0px;
-    background-image: url(../images/petrol.jpg);
+    background-image: url(https://source.unsplash.com/1600x800/?Petrol,Pump);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
